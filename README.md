@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomaszpagacz
-- 👀 I’m interested in automations and IoT
-- 🌱 I’m currently learning about Arduino and Raspberry Pi
-- 📫 How to reach me ... Like you want to. The best way is via my linkedin.com/in/tpagacz or instagram.com/alazyrobotiam
+- 👀 I’m interested in automations and data analytics
+- 🌱 I’m currently designing different models of a lightweight, versatile data platforms
+- 📫 How to reach me ... Like you want to. The best way is via my linkedin.com/in/tpagacz
 - 📺 Video tutorials? Sure. You can find them on youtube.com/@tompagacz
 
 <!---
